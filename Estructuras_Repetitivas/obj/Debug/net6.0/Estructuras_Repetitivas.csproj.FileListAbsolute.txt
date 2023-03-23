@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Estructuras_Repetitivas\Estructuras_Repetitivas\obj\Debug\net6.0\Estructuras_Repetitivas.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Estructuras_Repetitivas\Estructuras_Repetitivas\obj\Debug\net6.0\Estructuras_Repetitivas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Estructuras_Repetitivas\Estructuras_Repetitivas\obj\Debug\net6.0\Estructuras_Repetitivas.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Estructuras_Repetitivas\Estructuras_Repetitivas\obj\Debug\net6.0\Estructuras_Repetitivas.AssemblyInfo.cs
+C:\Users\HP\source\repos\Estructuras_Repetitivas\Estructuras_Repetitivas\obj\Debug\net6.0\Estructuras_Repetitivas.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Estructuras_Repetitivas\Estructuras_Repetitivas\bin\Debug\net6.0\Estructuras_Repetitivas.exe
+C:\Users\HP\source\repos\Estructuras_Repetitivas\Estructuras_Repetitivas\bin\Debug\net6.0\Estructuras_Repetitivas.deps.json
+C:\Users\HP\source\repos\Estructuras_Repetitivas\Estructuras_Repetitivas\bin\Debug\net6.0\Estructuras_Repetitivas.runtimeconfig.json
+C:\Users\HP\source\repos\Estructuras_Repetitivas\Estructuras_Repetitivas\bin\Debug\net6.0\Estructuras_Repetitivas.dll
+C:\Users\HP\source\repos\Estructuras_Repetitivas\Estructuras_Repetitivas\bin\Debug\net6.0\Estructuras_Repetitivas.pdb
+C:\Users\HP\source\repos\Estructuras_Repetitivas\Estructuras_Repetitivas\obj\Debug\net6.0\Estructuras_Repetitivas.dll
+C:\Users\HP\source\repos\Estructuras_Repetitivas\Estructuras_Repetitivas\obj\Debug\net6.0\refint\Estructuras_Repetitivas.dll
+C:\Users\HP\source\repos\Estructuras_Repetitivas\Estructuras_Repetitivas\obj\Debug\net6.0\Estructuras_Repetitivas.pdb
+C:\Users\HP\source\repos\Estructuras_Repetitivas\Estructuras_Repetitivas\obj\Debug\net6.0\Estructuras_Repetitivas.genruntimeconfig.cache
+C:\Users\HP\source\repos\Estructuras_Repetitivas\Estructuras_Repetitivas\obj\Debug\net6.0\ref\Estructuras_Repetitivas.dll
